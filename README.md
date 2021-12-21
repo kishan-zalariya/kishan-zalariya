@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ✨ I’m <strong>Kishan Zalariya</strong>
-- ✨ Currently working @ Binary Republik as a <strong>Jr. Software Developer</strong>
+- ✨ Currently working @ Binary Republik as a <strong>Software Developer</strong>
 - ✨ <strong>Competencies</strong>: JavaScript, React, PHP, Angular, .Net Core Web API, jQuery, MySQL, SQL
 - ✨ Currently learning NodeJS
 <hr></hr>
