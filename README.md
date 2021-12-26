@@ -1,8 +1,8 @@
 ### Hi there 👋
 - ✨ I’m <strong>Kishan Zalariya</strong>
 - ✨ Currently working @ Binary Republik as a <strong>Software Developer</strong>
-- ✨ <strong>Competencies</strong>: JavaScript, React, PHP, Angular, .Net Core Web API, jQuery, MySQL, SQL
-- ✨ Currently learning NodeJS
+- ✨ <strong>My Skills</strong>: React, JavaScript, jQuery, ASP.Net Core Web API, REST APIs, Jest, Jasmine framework, SQL, MySQL
+- ✨ In my spare time, I practice and learn new things like GraphQL, NodeJs, MongoDB.
 <hr></hr>
 
 ### Recent Article Posts 📜
