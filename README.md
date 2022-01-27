@@ -6,6 +6,7 @@
 <hr></hr>
 
 ### Recent Article Posts 📜
+- <a href="https://www.c-sharpcorner.com/article/load-data-asynchronously-and-export-json-data-to-excel-in-react/" target="_blank" rel="nofollow">Load Data Asynchronously And Export JSON Data To Excel In React</a> - Jan 23, 2022
 - <a href="https://www.c-sharpcorner.com/article/generate-dynamic-pdf-with-custom-style-in-react/" target="_blank" rel="nofollow">Generate Dynamic PDF With Custom Style In React</a> - Jan 01, 2022
 - <a href="https://www.c-sharpcorner.com/article/create-different-charts-in-react-using-chart-js-library/" target="_blank" rel="nofollow">Create Different Charts In React Using Chart.js Library</a> - Dec 21, 2021
 - <a href="https://www.c-sharpcorner.com/article/send-push-notification-to-android-device-from-net-core-web-api/" target="_blank" rel="nofollow">Send Push Notification To Android Device From .Net Core Web API</a> - Sep 17, 2021
