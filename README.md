@@ -6,6 +6,7 @@
 <hr></hr>
 
 ### Recent Article Posts 📜
+- <a href="https://www.c-sharpcorner.com/article/array-grouping-in-javascript-using-array-groupby/" target="_blank" rel="nofollow">Array Grouping In JavaScript Using array.groupBy()</a> - Mar 02, 2022
 - <a href="https://www.c-sharpcorner.com/article/web-scraping-in-c-sharp-using-scraperapi/" target="_blank" rel="nofollow">Web Scraping In C# Using ScraperAPI
 </a> - Jan 30, 2022
 - <a href="https://www.c-sharpcorner.com/article/load-data-asynchronously-and-export-json-data-to-excel-in-react/" target="_blank" rel="nofollow">Load Data Asynchronously And Export JSON Data To Excel In React</a> - Jan 23, 2022
