@@ -2,7 +2,7 @@
 - ✨ I’m <strong>Kishan Zalariya</strong>
 - ✨ Currently working as a <strong>Software Developer</strong>
 - ✨ <strong>My Skills</strong>: React, TypeScript, JavaScript, jQuery, ASP.Net Core Web API, REST APIs, Jest, Jasmine framework, SQL, MySQL
-- ✨ In my spare time, I practice and learn new things like **NodeJs, MongoDB**.
+- ✨ In my spare time, I practice and learn new things like **GraphQL, NodeJs, MongoDB**.
 <hr></hr>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan-zalariya&label=Profile%20views&color=0e75b6&style=flat" alt="kishan-zalariya" /> </p>-->
