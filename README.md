@@ -1,7 +1,7 @@
 ### Hi there 👋
 - ✨ I’m <strong>Kishan Zalariya</strong>
 - ✨ Currently working as a <strong>Software Developer</strong>
-- ✨ <strong>My Skills</strong>: React, TypeScript, JavaScript, jQuery, ASP.Net Core Web API, REST APIs, SQL, MySQL
+- ✨ <strong>My Skills</strong>: React, Redux, TypeScript, JavaScript, jQuery, ASP.Net Core Web API, REST APIs, SQL, MySQL
 - ✨ In my spare time, I practice and learn new things like **GraphQL, NodeJs, MongoDB**.
 <hr></hr>
 
