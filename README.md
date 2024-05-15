@@ -1,6 +1,6 @@
 
 ## Hey 👋, I'm Kishan Zalariya!
-- 👨‍💻 Currently working as a <strong>Sr. Software Developer</strong> at <strong>Binary Republik<strong>
+- 👨‍💻 Currently working as a <strong>Sr. Software Developer</strong> at <strong>Binary Republik</strong>
 - 🔭 <strong>My Skill Set</strong>: React, Redux, TypeScript, JavaScript, jQuery, ASP.Net Core Web API, REST APIs, SQL, MySQL
 - 🌱 In my spare time, I practice and learn new things like **GraphQL, NodeJs**
 - ⚡ Fun fact: I use tabs over spaces  
