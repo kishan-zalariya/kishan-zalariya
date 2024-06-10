@@ -23,7 +23,7 @@
 </div>
 <hr></hr>
 
-### 📝 Recent Blog Posts:
+### 📝 Blog Posts:
 - <a href="https://www.c-sharpcorner.com/article/array-grouping-in-javascript-using-array-groupby/" target="_blank" rel="nofollow">Array Grouping In JavaScript Using array.groupBy()</a>
 - <a href="https://www.c-sharpcorner.com/article/web-scraping-in-c-sharp-using-scraperapi/" target="_blank" rel="nofollow">Web Scraping In C# Using ScraperAPI</a>
 - <a href="https://www.c-sharpcorner.com/article/load-data-asynchronously-and-export-json-data-to-excel-in-react/" target="_blank" rel="nofollow">Load Data Asynchronously And Export JSON Data To Excel In React</a>
