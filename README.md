@@ -2,7 +2,7 @@
 ## Hey 👋, I'm Kishan Zalariya!
 - 👨‍💻 Currently working as a **Sr. Software Developer**
 - 🔭 **My Skill Set**: React, Redux, TypeScript, JavaScript, jQuery, ASP.Net Core Web API, REST APIs, SQL, MySQL
-- 🌱 In my spare time, I practice and learn new things like **NodeJs, GraphQL**
+- 🌱 In my spare time, I practice and learn new things like **NextJs, NodeJs**
 - ⚡ Fun fact: I use tabs over spaces
 <hr></hr>
 
@@ -44,7 +44,7 @@
 <a href="https://dev.to/kishanzalariya" target="_blank" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.csharp.com/members/kishan-zalariya/articles">
-<img src="https://www.csharp.com/members/kishan-zalariya/flair.png?theme=dark" width="260" height="58" alt="profile for Kishan C# Corner - A Social Community of Developers and Programmers" title="profile for Kishan at C# Corner - A Social Community of Developers and Programmers" />
+<a href="https://www.c-sharpcorner.com/members/kishan-zalariya">
+<img src="https://www.c-sharpcorner.com/members/kishan-zalariya/flair.png?theme=dark" width="260" height="58" alt="profile for Kishan C# Corner - A Social Community of Developers and Programmers" title="profile for Kishan at C# Corner - A Social Community of Developers and Programmers" />
 </a>
 </div>
