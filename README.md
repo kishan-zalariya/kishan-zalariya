@@ -6,15 +6,14 @@
 - ⚡ Fun fact: I use tabs over spaces
 <hr></hr>
 
-<!--
 ### Languages and Tools
-<div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
 <a href="https://reactjs.org/" title="React" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a
+<a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://redux.js.org/" title="Redux" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://redux.js.org/" title="Redux" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a> 
-//<a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-//<a href="https://jquery.com/" title="jQuery" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>
+<!-- <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://jquery.com/" title="jQuery" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a> -->
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" title=".NET" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a> 
 <a href="https://nodejs.org/" title="Node.js" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
@@ -28,58 +27,6 @@
 <a href="https://graphql.org/" title="GraphQL" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
 </div>
 <hr></hr>
--->
-
-### Languages and Tools
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
-  <a href="https://reactjs.org/" title="React" target="_blank" rel="noopener noreferrer">
-    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-  </a>
-  <a href="https://www.javascript.com/" title="JavaScript" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  </a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-  </a>
-  <a href="https://redux.js.org/" title="Redux" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-  </a>
-  <a href="https://dotnet.microsoft.com/download/dotnet-framework" title=".NET" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
-  </a>
-  <a href="https://nodejs.org/" title="Node.js" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-  </a>
-  <a href="https://expressjs.com/" title="Express.js" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-  </a>
-  <a href="https://www.mysql.com/" title="MySQL" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" title="MsSQL" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50" />
-  </a>
-  <a href="https://www.chartjs.org/" title="Chart.js" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />
-  </a>
-  <a href="https://mui.com/" title="Material UI" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
-  </a>
-  <a href="https://github.com/" title="Git" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-  </a>
-  <a href="https://nextjs.org/" title="NextJS" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
-  </a>
-  <a href="https://graphql.org/" title="GraphQL" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
-  </a>
-</div>
-<hr />
-
 
 ### 📝 Blog Posts:
 - <a href="https://www.c-sharpcorner.com/article/array-grouping-in-javascript-using-array-groupby/" target="_blank" rel="nofollow">Array Grouping In JavaScript Using array.groupBy()</a>
