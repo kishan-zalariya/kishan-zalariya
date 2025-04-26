@@ -7,7 +7,7 @@
 <hr></hr>
 
 ### Languages and Tools
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
 <a href="https://reactjs.org/" title="React" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://redux.js.org/" title="Redux" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
