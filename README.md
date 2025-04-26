@@ -32,7 +32,7 @@
 
 ### Languages and Tools
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
-  <a href="https://reactjs.org/" title="React" target="_blank">
+  <a href="https://reactjs.org/" title="React" target="_blank" rel="noopener noreferrer">
     <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
   </a>
   <a href="https://www.javascript.com/" title="JavaScript" target="_blank">
